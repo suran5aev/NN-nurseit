@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     # rest
     'rest_framework',
     'ckeditor',
+    'drf_yasg',
 
     # apps
     'apps.todo',
